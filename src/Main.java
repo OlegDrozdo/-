@@ -7,6 +7,6 @@ public class Main {
         System.out.println(" Vvedi chislo : ");
         int num1 = num.nextInt();
         System.out.printf(Locale.US, "%,d", num1);
-        System.out.println("1");
+        System.out.println("2");
     }
 }
